@@ -1,0 +1,18 @@
+{
+  "stepa": {
+    "password": "123",
+    "score": 10
+  },
+  "Roma": {
+    "password": "123",
+    "score": 5
+  },
+  "Liza": {
+    "password": "123",
+    "score": 1
+  },
+  "gg": {
+    "password": "123",
+    "score": 0
+  }
+}
